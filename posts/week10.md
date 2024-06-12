@@ -33,77 +33,8 @@ Sound was used to create atmosphere and emotional depth, similar to previous ass
 
 ## Statement Writing
 
+"Life and Death: A Reflective Journey" is a multimedia project that employs video and sound to explore the profound themes of existence. Drawing inspiration from personal experiences and the symbolism of the dragonfly, this work delves into transformation and the cyclical nature of life. By meticulously synchronizing ambient sounds with visual elements, the project evokes a deep emotional response, guiding viewers through a contemplative and introspective narrative journey.
 
+"Memory Icons: A Visual Representation" is a suite of digital icons created for an iPhone application. Inspired by the theme of memory, the design process involved multiple iterations, refining the clarity and appeal of each icon. These icons aim to enhance the user experience by evoking nostalgia and personal history through vibrant colors and familiar symbols. The final designs successfully translate abstract concepts into concrete visual elements, providing a cohesive and engaging interface for users to document their memories.
 
-
-## Maths:
-
-... which can be written inline, like this: $\{ x, y, z \} \in \N$
-
-... or block, like this:
-
-$$ x^2 + y^2 = z^2 $$
-
-Visit [ $\KaTeX$ ](https://katex.org/docs/supported#fractions-and-binomials) for more information about writing maths.
-
-## Embedding video:
-
-<iframe id="coding_train_video" src="https://www.youtube.com/embed/rI_y2GAlQFM?si=RDgjkpunxk1mQzMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<script type="module">
-
-    console.log (`hello world! 🚀`)
-
-    const iframe  = document.getElementById (`coding_train_video`)
-    iframe.width  = iframe.parentNode.scrollWidth
-    iframe.height = iframe.width * 9 / 16
-
-</script>
-
-## Embedding p5 sketches:
-
-<iframe id="falling_falling" src="https://editor.p5js.org/capogreco/full/Fkg05m7aA"></iframe>
-
-<script type="module">
-
-    const iframe  = document.getElementById (`falling_falling`)
-    iframe.width  = iframe.parentNode.scrollWidth
-    iframe.height = iframe.width * 9 / 16 + 42
-
-</script>
-
-## Canvas API
-
-<canvas id="canvas_example"></canvas>
-
-<script type="module">
-    const cnv = document.getElementById (`canvas_example`)
-    cnv.width = cnv.parentNode.scrollWidth
-    cnv.height = cnv.width * 9 / 16
-
-    const ctx = cnv.getContext (`2d`)
-    const pos = {
-        x: -100,
-        y: cnv.height / 2 - 50
-    }
-    
-    function draw_frame () {
-        ctx.fillStyle = `turquoise`
-        ctx.fillRect (0, 0, cnv.width, cnv.height)
-
-        ctx.fillStyle = `hotpink`
-        ctx.fillRect (pos.x, pos.y, 100, 100)
-
-        pos.x += 2
-
-        if (pos.x > cnv.width) {
-            pos.x = -100
-        }
-
-        requestAnimationFrame (draw_frame)
-    }
-
-    draw_frame ()
-</script>
-
-
+"Life and Death: A 3D Virtual Environment" is an interactive project that immerses users in a reflective journey through a three-dimensional space. Influenced by games like "NieR: Automata," the environment balances realism and fantasy to explore themes of grief and the passage of time. The project utilizes spatial design, dynamic camera angles, and ambient soundscapes to create an emotionally engaging experience, unifying various elements under a cohesive theme that evolved during development. Play testing revealed insights that further refined the project's impact.
