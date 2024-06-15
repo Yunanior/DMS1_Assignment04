@@ -11,35 +11,35 @@ allow_math: true
 **Assignment 01**
 
 • How did you approach the relationship between the sonic and visual components of your edit?
-
+  
   I approached the relationship between the sonic and visual components by ensuring that the sounds complemented and enhanced the visuals, creating a cohesive emotional experience. For example, I used ambient sounds like heartbeats and equipment beeping to signify life and its fleeting nature, aligning with visual transitions between life and death.
 
 • How did you decide on the footage that you used to shape your project?
 
-The footage was selected based on its ability to convey the emotional journey and theme of the project. I looked for symbolic and visually striking elements, such as the dragonfly, which represents transformation and the transition between life stages.
+  The footage was selected based on its ability to convey the emotional journey and theme of the project. I looked for symbolic and visually striking elements, such as the dragonfly, which represents transformation and the transition between life stages.
 
 • What did you learn about the power of sound to shape emotional experience, and how did you apply this knowledge to your project?
 
-I learned that sound profoundly influences emotional perception. Background music was chosen to be soft and ethereal, creating an atmosphere of nostalgia and introspection. Sound transitions were carefully timed to guide the audience's emotional response, using L and J cuts to create seamless audio-visual shifts.
+  I learned that sound profoundly influences emotional perception. Background music was chosen to be soft and ethereal, creating an atmosphere of nostalgia and introspection. Sound transitions were carefully timed to guide the audience's emotional response, using L and J cuts to create seamless audio-visual shifts.
 
 
 • How does editing relate to the concepts of pacing and rhythm, and how did you use these concepts to shape your use of time in the project?
 
-Editing was crucial in establishing pacing and rhythm. By using match cuts and quick cuts, I maintained a fluid narrative flow that mirrored the protagonist's fragmented perception. This method helped control the timing and emotional build-up throughout the video.
+  Editing was crucial in establishing pacing and rhythm. By using match cuts and quick cuts, I maintained a fluid narrative flow that mirrored the protagonist's fragmented perception. This method helped control the timing and emotional build-up throughout the video.
 
 • Which parts of your personality, interests, past, and potential future did you choose to
 depict in your portrait?
 
-I depicted parts of my personality and interests, such as a fascination with the ephemeral nature of life and transformation. The choice of the dragonfly symbol reflects my interest in natural cycles and the interconnectedness of existence.
+  I depicted parts of my personality and interests, such as a fascination with the ephemeral nature of life and transformation. The choice of the dragonfly symbol reflects my interest in natural cycles and the interconnectedness of existence.
 
 • What were the primary aesthetic choices that you made to express those ideas in your
 work?
 
-Aesthetic choices included the use of cold tones to evoke detachment and otherworldliness, and seamless transitions to blur the lines between different states of consciousness. These choices were intended to immerse the audience in a dreamlike experience, reflecting on life's transient nature.
+  Aesthetic choices included the use of cold tones to evoke detachment and otherworldliness, and seamless transitions to blur the lines between different states of consciousness. These choices were intended to immerse the audience in a dreamlike experience, reflecting on life's transient nature.
+  
+//  In reflecting on the project, the integration of sonic and visual elements was pivotal. The ambient sounds, such as heartbeats and equipment beeping, were meticulously synchronized with visual transitions, crafting a cohesive and emotionally resonant experience. This approach ensured that the auditory elements enhanced the narrative, making the themes of life and death more poignant and immersive. The footage selection process was equally deliberate, aiming to effectively convey the emotional journey. Symbolic elements like the dragonfly were chosen for their visual impact and thematic relevance, with iterative refinements ensuring alignment with the project's narrative and aesthetic goals.
 
-In reflecting on the project, the integration of sonic and visual elements was pivotal. The ambient sounds, such as heartbeats and equipment beeping, were meticulously synchronized with visual transitions, crafting a cohesive and emotionally resonant experience. This approach ensured that the auditory elements enhanced the narrative, making the themes of life and death more poignant and immersive. The footage selection process was equally deliberate, aiming to effectively convey the emotional journey. Symbolic elements like the dragonfly were chosen for their visual impact and thematic relevance, with iterative refinements ensuring alignment with the project's narrative and aesthetic goals.
-
-The project underscored the power of sound in shaping emotional experiences. Background music and ambient sounds were chosen to evoke feelings of nostalgia and introspection. Techniques like L and J cuts facilitated seamless audio-visual transitions, heightening the viewer's emotional engagement. Through this project, the intricate interplay between sound and visual components was explored, demonstrating how carefully curated audio elements can amplify the emotional depth of visual storytelling.
+//  The project underscored the power of sound in shaping emotional experiences. Background music and ambient sounds were chosen to evoke feelings of nostalgia and introspection. Techniques like L and J cuts facilitated seamless audio-visual transitions, heightening the viewer's emotional engagement. Through this project, the intricate interplay between sound and visual components was explored, demonstrating how carefully curated audio elements can amplify the emotional depth of visual storytelling.
 
 
 **Assignmnet02**
