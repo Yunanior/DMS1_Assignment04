@@ -10,8 +10,8 @@ allow_math: true
 
 **Assignment 01**
 
-• How did you approach the relationship between the sonic and visual components of
-your edit?
+• How did you approach the relationship between the sonic and visual components of your edit?
+
   I approached the relationship between the sonic and visual components by ensuring that the sounds complemented and enhanced the visuals, creating a cohesive emotional experience. For example, I used ambient sounds like heartbeats and equipment beeping to signify life and its fleeting nature, aligning with visual transitions between life and death.
 
 • How did you decide on the footage that you used to shape your project?
