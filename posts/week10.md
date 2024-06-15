@@ -120,3 +120,8 @@ Sound was used to create atmosphere and emotional depth, similar to previous ass
 **Assignment03**
 
 "Crosses" is an interactive 3D project. Inspired by games like "NieR: Automata," it balances realism and fantasy to explore themes of grief and the passage of time. The project uses spatial design, dynamic camera angles, and ambient soundscapes to engage users emotionally. Play testing was crucial, revealing insights that helped refine the user experience and solve navigation issues. This iterative process ensured a smooth and immersive final product. 
+
+## overall structure plan
+
+![overlay plan01](/w10s01/overlay01.png)
+
