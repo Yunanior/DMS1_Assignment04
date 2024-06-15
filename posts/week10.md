@@ -126,3 +126,11 @@ Sound was used to create atmosphere and emotional depth, similar to previous ass
 
 ![overlay plan01](/w10s01/overlay01.png)
 
+![overlay plan02](/w10s01/overlay02.png)
+
+![overlay plan03](/w10s01/overlay03.png)
+
+![overlay plan04](/w10s01/overlay04.png)
+
+![overlay Plan 05](/w10s01/overlay05.png)
+
