@@ -110,8 +110,13 @@ Sound was used to create atmosphere and emotional depth, similar to previous ass
 
 ## Statement Writing
 
-"Life and Death: A Reflective Journey" is a multimedia project that employs video and sound to explore the profound themes of existence. Drawing inspiration from personal experiences and the symbolism of the dragonfly, this work delves into transformation and the cyclical nature of life. By meticulously synchronizing ambient sounds with visual elements, the project evokes a deep emotional response, guiding viewers through a contemplative and introspective narrative journey.
+**Assignment01**
+"Void" is a multimedia project using video and sound. Inspired by personal experiences and the dragonfly symbol, it shows the transformation and cycles of life. I aimed to match ambient sounds with visuals to evoke deep emotions and guide viewers through a thoughtful narrative. The dragonfly, symbolizing change, plays a key role in connecting the themes of life and death, creating an immersive, emotional experience.
 
-"Memory Icons: A Visual Representation" is a suite of digital icons created for an iPhone application. Inspired by the theme of memory, the design process involved multiple iterations, refining the clarity and appeal of each icon. These icons aim to enhance the user experience by evoking nostalgia and personal history through vibrant colors and familiar symbols. The final designs successfully translate abstract concepts into concrete visual elements, providing a cohesive and engaging interface for users to document their memories.
+**Assignment02**
 
-"Life and Death: A 3D Virtual Environment" is an interactive project that immerses users in a reflective journey through a three-dimensional space. Influenced by games like "NieR: Automata," the environment balances realism and fantasy to explore themes of grief and the passage of time. The project utilizes spatial design, dynamic camera angles, and ambient soundscapes to create an emotionally engaging experience, unifying various elements under a cohesive theme that evolved during development. Play testing revealed insights that further refined the project's impact.
+"Memory Icons" is a suite of digital icons for an iPhone app. The theme is memory, chosen to resonate with users who document their lives. The design process had many iterations to improve clarity and appeal. Using bright colors and familiar symbols, the icons aim to evoke personal history and nostalgia. The final designs translate abstract memory concepts into concrete visual elements, creating an engaging and cohesive user interface.
+
+**Assignment03**
+
+"Crosses" is an interactive 3D project. Inspired by games like "NieR: Automata," it balances realism and fantasy to explore themes of grief and the passage of time. The project uses spatial design, dynamic camera angles, and ambient soundscapes to engage users emotionally. Play testing was crucial, revealing insights that helped refine the user experience and solve navigation issues. This iterative process ensured a smooth and immersive final product. 
