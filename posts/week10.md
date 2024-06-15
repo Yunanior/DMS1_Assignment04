@@ -111,6 +111,7 @@ Sound was used to create atmosphere and emotional depth, similar to previous ass
 ## Statement Writing
 
 **Assignment01**
+
 "Void" is a multimedia project using video and sound. Inspired by personal experiences and the dragonfly symbol, it shows the transformation and cycles of life. I aimed to match ambient sounds with visuals to evoke deep emotions and guide viewers through a thoughtful narrative. The dragonfly, symbolizing change, plays a key role in connecting the themes of life and death, creating an immersive, emotional experience.
 
 **Assignment02**
