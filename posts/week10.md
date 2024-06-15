@@ -44,12 +44,61 @@ work?
 
 **Assignmnet02**
 
-The suite of icons was conceived with the theme of "Memory" in mind, targeting users passionate about documenting their lives. This theme was selected to resonate with individuals who keep diaries or film family moments, aiming to evoke a sense of nostalgia and personal history. The design process involved multiple iterations, starting with thumbnail sketches and evolving through feedback and refinement. Each iteration aimed to improve clarity and visual appeal, ensuring the final icons were functional and aesthetically pleasing.
+• How would you summarise your idea behind the suite of icons, and why did you choose the theme that you did?
 
-Color played a crucial role in creating a unified and visually appealing icon set. A palette of light blue, red, and yellow was chosen for its vibrancy and ability to convey the theme of memory. This color scheme added depth and made the icons more engaging, enhancing the user experience. The project highlighted the importance of iterative design and the thoughtful use of color to create a cohesive and meaningful user interface.
+The idea behind the suite of icons was to create visual elements for an iPhone application designed to help users record and review their lives, specifically targeting people passionate about documenting their memories. The theme of "Memory" was chosen to resonate with users who enjoy keeping diaries or filming family moments, aiming to evoke nostalgia and a sense of personal history 
+
+• Did you iterate through a series of approaches before settling on one? What changed across those iterations, and why did you choose the one that you ended up with?
+
+Initially, multiple concepts were explored through thumbnail sketches. The iterations involved experimenting with different designs and refining them based on their effectiveness and simplicity. For instance, icons representing security, audio recording, and photo albums were repeatedly revised to balance clarity and visual appeal. The final choices were made to ensure the icons were easily recognisable and thematically cohesive.  
+
+• How did you translate your thumbnail sketches into the final flat designs in Illustrator? Was anything lost in that translation, or gained?
+
+The transition from thumbnail sketches to final flat designs in Illustrator involved distilling shapes and using high-contrast colors to maintain clarity. While some details were simplified or omitted to avoid clutter, the essence of the original sketches was preserved. The use of Adobe Illustrator's tools facilitated this process, helping to create clean, scalable designs that remained true to the initial concepts  
+
+• How did you use colour to create a sense of unity and visual interest in the icons? Why did you choose the palette that you did?
+
+Color was crucial in creating unity and visual interest. A palette of light blue, red, and yellow was chosen to evoke a sense of passion and vibrancy, aligning with the application's theme. The use of three hues in each icon added depth and made the designs more engaging without overwhelming the viewer​.
+
+• How did the elements and principles of sound that you used in your audio design correspond to the elements and principles of design that you used in your visual design?
+
+In both audio and visual design, elements such as contrast, balance, and emphasis were key. Just as sound was used to evoke emotions and guide the viewer's experience, visual elements were carefully designed to draw attention and convey meaning. The interplay of these principles ensured that both the audio and visual components complemented each other, enhancing the overall user experience​ 
+
+• How did you translate the prompt that you chose from an abstract idea to a set of concrete visual designs?
+
+The abstract idea of "Memory" was translated into concrete visual designs by focusing on everyday objects and symbols associated with recording and recalling memories, such as locks, cameras, and maps. These symbols were chosen for their familiarity and ability to evoke a sense of security, nostalgia, and exploration, effectively bridging the gap between abstract concepts and tangible icons 
 
 
 **Assignment03**
+
+• How important was a working prototype to your design process? What did it offer that process?
+
+The working prototype was vital for identifying and resolving practical issues that theoretical planning could not foresee. It allowed for iterative testing and adjustments, such as fixing navigation problems and collider meshes, ensuring a smoother user experience.​ 
+
+• How did your experience of designing and producing a three-dimensional environment differ from your experience of designing and producing a project in two-dimensional media?
+
+Designing a 3D environment differed significantly from 2D projects in terms of spatial awareness and interaction. In 3D, considerations like depth, perspective, and user navigation became vital, whereas 2D design primarily focused on layout and visual balance on a flat plane. The 3D environment required more complex modelling and texture mapping to create an immersive experience.  
+
+• What was the role of the virtual camera in your project, and how was it similar to and
+different from the role of the camera in Assignment 1?
+
+The virtual camera played a pivotal role in guiding the user's perspective and enhancing the immersive experience. Unlike in Assignment 1, where the camera was used for capturing specific angles in a 2D space, in this project, the virtual camera was dynamic and interactive, allowing users to explore the environment from various viewpoints. This interactivity was key to the user's experience of the 3D space.  
+
+
+• How did you use sound in your project, and how was this similar to and different from your use of sound in Assignments 1 and 2?
+
+Sound in the project was used to create atmosphere and emotional depth, similar to previous assignments but adapted for a 3D environment. Background music was chosen to evoke a sense of order and immersion, while ambient sounds like birds singing were used sparingly to avoid clutter and maintain a peaceful atmosphere. This approach differed from earlier projects where sound was more directly tied to visual transitions
+
+• How did you unify the different elements of your virtual environment under a certain theme
+or concept? How did your theme or concept evolve over the project’s development?
+
+The theme of "Life and Death" was central to the project, guiding the design of the environment and the choice of symbols and colors. The environment evolved from initial sketches to a more refined concept that balanced fantasy and realism, inspired by games like "NieR: Automata" and "Graveyard Shift." This thematic consistency ensured a cohesive and engaging user experience.
+
+• What did you discover through the process of play testing that you wouldn’t have
+discovered otherwise?
+
+Play testing uncovered issues that were not apparent during the design phase, such as navigation problems and model collisions. These insights were critical for making necessary adjustments, ensuring that the final environment was user-friendly and immersive. For instance, adjustments were made to pathways and colliders to prevent users from getting stuck or lost.  
+
 
 Creating a working prototype was essential for identifying and resolving practical issues that theoretical planning could not foresee. It allowed for iterative testing and adjustments, such as fixing navigation problems and collider meshes, ensuring a smoother user experience. This hands-on approach was instrumental in refining the design and functionality of the project.
 
